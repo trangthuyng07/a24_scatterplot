@@ -1,6 +1,6 @@
 function _chart(d3,data)
 {
-  const width = 900, height = 800;
+  const width = 600, height = 600;
   const margin = {top: 20, right: 80, bottom: 60, left: 80};
 
   const svg = d3.create("svg")
